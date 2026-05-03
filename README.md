@@ -50,6 +50,9 @@ ab-testing-conversion-analysis/
 
 Delivered an end-to-end data analysis solution combining data cleaning, statistical analysis, and interactive visualization to support business decision-making.
 
+## 📸 Dashboard Preview
+![Dashboard](images/dashboard.png)
+
 🧠 Skills Demonstrated
 Data Analysis
 A/B Testing
